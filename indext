@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Savage</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+</head>
+<body>
+	<nav>
+		<ul class="navigation">
+			<li><a href="#">Home</a></li>
+			<li><a href="#">About Us</a></li>
+			<li><a href="#">Blogs</a></li>
+			<li class="t1">SAVAGE</li>
+			<li><a href="#">Section <i class="far fa-caret-square-down more"></i></a>
+				<ul class="menu-desp">
+					<li><a href="#">Why Us</a></li>
+					<li><a href="#">History</a></li>
+					<li><a href="#">Team</a></li>
+					<li><a href="#">Join Us</a></li>
+						<li><a href="#">Testimonials</a></li>
+				</ul>
+			</li>
+			<li><a href="#">Gallery</a></li>
+			<li><a href="#">Contact Us</a></li>
+		</ul>
+	</nav>
+<!-------------------------------------------------------------------------------->
+	<div class="banner">
+			
+		<div class="contenedor">
+			<h1>Protect Wildlife, Protect Nature</h1>
+			<a href="#"><p class="btn">Read More</p></a>
+		</div>
+	</div>
+<!-------------------------------------------------------------------------------->
+	<div class="corona">
+
+		<h2 style="color: #6D756F;">Ipsum Dolor Sit Amet Feugiat Et Veroeros Adipiscing</h2>
+		<p style="color: #B4C2B8;">Pellentesque maximus Pellentesque libero justo Nulla uter sollicitudin velit.Morbi viverra lacus commodo felis.</p>
+		
+	</div>
+<!-------------------------------------------------------------------------------->
+	<div class="team">
+		<div class="people">
+			<ul class="pp">
+				<li><img src="img/t1.jpg"></li>
+				<li><img src="img/t2.jpg"></li>
+				<li><img src="img/t3.jpg"></li>
+			</ul>
+		</div>
+	
+
+	<div class="descript">
+		<h1>Join Our Team And Save The Nature!</h1>
+		<p>Donec malesuada ex sit amet pretium sid ornare. Nulla congue scelerisque tellus, utpretium nulla malesuada sedint. Suspendisse venenatis,Lorem ipsum dolor sit magna dolor <br>
+
+		Donec malesuada ex sit amet pretium sid ornare. Nulla congue scelerisque tellus, utpretium nulla malesuada sedint. Suspendisse venenatis,Lorem ipsum dolor sit magna dolor.</p>
+		<a href="#">
+		<div class="btn2">
+			Read More
+		</div>
+		</a>
+		<ul class="flist">
+			<li> Lorem ipsum dolor</li>
+			<li>Donec malesuada ex sit</li>
+			<li>Lorem ipsum dolor</li>
+			<li>Donec malesuada ex sit</li>
+			<li>Lorem ipsum dolor</li>
+		</ul>
+	</div>
+	</div>
+
+
+<!----------------------------------------------------------------------------------->
+
+
+	<div class="hist">
+		<!-----------------------------------TITULO-------------------------------------->
+		<h1>Savege History</h1>
+		<ul>
+		<!------------------------------------BOTTON------------------------------------><input type="checkbox" id="spoiler1">
+		<label for="spoiler1">
+			<li class="cat">Dolores et quas molestias excepturi sint occaecati</li>
+		</label>
+
+		<!--------------------------------CONTENIDO---------------------------------->
+			<div class="spoiler">
+			<h3>AmetLorem ipsum dolor sit amet</h1>
+			<p>Sodales quis.At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet,sed diam nonumy. Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+		<!------------------------------------BOTTON------------------------------------><input type="checkbox" id="spoiler2">
+		<label for="spoiler2">
+			<li class="cat">Dolores et quas molestias excepturi sint occaecati</li>
+		</label>
+
+		<!--------------------------------CONTENIDO---------------------------------->
+			<div class="spoiler">
+			<h3>AmetLorem ipsum dolor sit amet</h1>
+			<p>Sodales quis.At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet,sed diam nonumy. Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+		<!------------------------------------BOTTON------------------------------------><input type="checkbox" id="spoiler3">
+		<label for="spoiler3">
+			<li class="cat">Dolores et quas molestias excepturi sint occaecati</li>
+		</label>
+		<!--------------------------------CONTENIDO---------------------------------->
+			<div class="spoiler">
+			<h3>AmetLorem ipsum dolor sit amet</h1>
+			<p>Sodales quis.At vero eos et accusam et justo duo dolores et ea rebum. Lorem ipsum dolor sit ametLorem ipsum dolor sit amet,sed diam nonumy. Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+		<!------------------------------------BOTTON------------------------------------><input type="checkbox" id="spoiler4">
+		<label for="spoiler4">
+			<li class="cat">dshvuisdbhvuisdbvgsduivbhsuivbgsccaecati</li>
+		</label>
+		<!--------------------------------CONTENIDO---------------------------------->
+			<div class="spoiler">
+			<h3>AmetLorem ipsum dolor sit amet</h1>
+			<p>Sodaleslsdihv uiosdbhvuisdobv usidobvsduicbsduvsdbvsduibvusidbuisdbcusdibcudbcsducbsduicbusdicbuisdbcduia.</p>
+			</div>
+		</ul>
+	</div>
+
+
+		<!-------------------------------Animasl------------------------------------->
+	<div class="ani">
+
+	<div class="animals">
+		<div>
+		<img src="img/blog1.jpg">
+		<h2>Lorem ipsum dolor sit</h2>
+		<p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
+		</div>
+
+		<div>
+		<img src="img/blog2.jpg">
+		<h2>Lorem ipsum dolor sit</h2>
+		<p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
+		</div>
+
+		<div>
+		<img src="img/blog3.jpg">
+		<h2>Lorem ipsum dolor sit</h2>
+		<p>Lorem Ipsum has been the industry's standard since the 1500s.</p>
+		</div>
+	</div>
+
+	</div>
+
+	<!-------------------------------muntain------------------------------------->
+		<div class="muntain">
+			<div class="munt">
+				<h1>Save The Nature</h1>
+				<p>Duis nisi sapien, elementum finibus fermentum eget, aliquet leo et. Mauris hendrerit vel ex. Quisque vitae luctus massa. Phasellus sed aliquam leo a massa eu fringilla.</p>
+				<button>Read More</button>
+			</div>
+
+		</div>
+
+
+	<!-------------------------------Animasl------------------------------------->
+	<div class="about-ext">
+		<div class="about">
+
+			<div class="about-left-col">
+				<h1>Lorem Ipsum Dolor Sit Magna<br> Feugiat Etiam Sed Dolor</h1>
+				<p>Donec malesuada ex sit amet pretium sid ornare. Nulla congue scelerisque tellus, utpretium nulla malesuada sedint. Suspendisse venenatis,Lorem ipsum dolor sit magna dolor.</p>
+				<button>Read More</button>
+			</div>
+			<div class="about-right-col">
+				<img src="img/zoe.jpg">
+		</div>
+		</div>
+	</div>
+	<!-------------------------------photos--------------------------------------->
+	<div class="photos">
+		<p>Nature Photos</p>
+		<div class="box">
+			<div class="box1">
+			<img src="img/jirafa.jpg">
+				<h2>Snap1</h2>
+				<h3>WEBSITE</h3>
+			<img src="img/mono.jpg">
+				<h2>Snap1</h2>
+				<h3>WEBSITE</h3>
+			</div>
+			<div class="box2">
+			<img src="img/ardilla.jpg">
+				<h2>Snap1</h2>
+				<h3>WEBSITE</h3>
+			<img src="img/camaleon.jpg">
+				<h2>Snap1</h2>
+				<h3>WEBSITE</h3>
+			</div>
+		</div>
+	</div>
+
+	<!-------------------------------muntain2------------------------------------->
+		<div class="muntain">
+			<div class="munt2">
+				<h1>Save The Nature</h1>
+				<p>Duis nisi sapien, elementum finibus fermentum eget, aliquet leo et. Mauris hendrerit vel ex. Quisque vitae luctus massa. Phasellus sed aliquam leo a massa eu fringilla.</p>
+				<button>Read More</button>
+			</div>
+
+		</div>
+
+	<!-------------------------------Testimonio------------------------------------->
+	<div class="tesimonials">
+		<div class="left">
+		<img src="img/t1.jpg">
+		</div>
+
+		<div class="right">
+		<h1>Testimonio</h1>
+		<img src="img/ok.png">
+		<p>Integer sit amet mattis quam, sit amet ultricies velit. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod possimus, omnis voluptas.</p>
+		<p class="red">Thomas Carl</p>
+		</div>
+	</div>
+
+<!-------------------------------suscribe------------------------------------->
+	<div class="suscribe">
+		<h1>SAVAGE</h1>
+		<div class="events">
+			<p><strong>1568</strong> Partners</p>
+			<p><strong>1900</strong> Customers</p>
+			<p><strong>1942</strong> Projects</p>				
+		</div>
+		<form>
+		<input type="text" name="" placeholder="Your Email..." class="email">
+		<input type="submit" name="" value="Suscribe" class="log">
+		</form>
+		<i class="fab fa-twitter"></i>
+		<i class="fab fa-google-plus-g"></i>
+		<i class="fab fa-facebook"></i>
+
+	</div>
+
+
+	<footer>
+		© 2019 Savage. All rights reserved | Design by W3layouts
+	</footer>
+
+
+
+<script src="main.js"></script>
+<<script>document.write('<script src="http://' + (location.host || 'localhost').split(':')[0] + ':35729/livereload.js?snipver=1"></' + 'script>')</script>
+</body>
+</html>
